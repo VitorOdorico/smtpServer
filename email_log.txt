@@ -1,0 +1,3 @@
+[2024-12-27T09:26:53.315914200] Destinatário: contatovitorodorico@gmail.com | Assunto: Assunto Teste | Status: SUCESSO
+[2024-12-27T09:26:54.307030] Destinatário: ve743137@gmail.com | Assunto: Assunto Teste | Status: SUCESSO
+[2024-12-27T09:26:55.122068500] Destinatário: mariacmarinho28@gmail.com | Assunto: Assunto Teste | Status: SUCESSO

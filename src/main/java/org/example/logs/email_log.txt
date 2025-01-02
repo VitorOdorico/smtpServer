@@ -1,0 +1,9 @@
+[2024-12-27 09:30:15] Destinatário: ve743137@gmail.com | Assunto: Assunto Teste | Status: SUCESSO
+[2024-12-27 09:30:16] Destinatário: mariacmarinho28@gmail.com | Assunto: Assunto Teste | Status: SUCESSO
+[2024-12-27 09:30:18] Destinatário: contatovitorodorico@gmail.com | Assunto: Assunto Teste | Status: SUCESSO
+[2024-12-27 11:41:53] Destinatário: ve743137@gmail.com | Assunto: PROMOÇÃO IMPERDIVEL SOLUÇÃO NETWORK | Status: FALHA: Couldn't connect to host, port: smtp.gmail.com, 587; timeout -1
+[2024-12-27 11:43:43] Destinatário: ve743137@gmail.com | Assunto: PROMOÇÃO IMPERDIVEL SOLUÇÃO NETWORK | Status: SUCESSO
+[2024-12-27 13:21:26] Destinatário: mariacmarinho28@gmail.com | Assunto: PROMOÇÃO IMPERDÍVEL SOLUÇÃO NETWORK | Status: SUCESSO
+[2025-01-02 10:24:21] Destinatário: contatovitorodorico@gmail.com | Assunto: urgente smtp server | Status: SUCESSO
+[2025-01-02 10:42:42] Destinatário: contatovitorodorico@gmail.com | Assunto: urgente smtp server | Status: SUCESSO
+[2025-01-02 10:44:32] Destinatário: contatovitorodorico@gmail.com | Assunto: urgente smtp server | Status: SUCESSO
